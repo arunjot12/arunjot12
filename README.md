@@ -9,7 +9,7 @@
 
 
 <p align="center"> 
-<a href='https://postimg.cc/34WyCBym' target='_blank'><img src='https://i.postimg.cc/34WyCBym/nightlife-1.gif' border='0' weight= '100'height ='100' alt='nightlife-1'/></a>
+<img src='https://i.postimg.cc/34WyCBym/nightlife-1.gif'  weight= '100%' height ='100' alt='nightlife-1'/>
 </p>
 
 
