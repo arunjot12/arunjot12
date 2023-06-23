@@ -9,8 +9,7 @@
 
 
 <p align="center"> 
-  <img src= "https://postimg.cc/34WyCBym" /> 
- <img src="https://postimg.cc/34WyCBym" height="200" alt="codewar stats" /> 
+<a href='https://postimg.cc/34WyCBym' target='_blank'><img src='https://i.postimg.cc/34WyCBym/nightlife-1.gif' border='0' alt='nightlife-1'/></a>
 </p>
 
 
