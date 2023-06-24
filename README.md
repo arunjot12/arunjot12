@@ -2,11 +2,18 @@
 <h3 align="center"> A Passionate Blockchain developer </h3>
 <img src="https://i.postimg.cc/ydPR4mwH/borderseperator.gif" />
 
+## About me ⭐
 
+<p>I'm a Blockchain Developer at <strong><a href="https://www.antiersolutions.com">Antier Solutions</a></strong>. 
+I'm Proficient in Rust programming language including core language concepts, advanced features and libraries and have knowledge of web development frameworks and libraries in Rust, such as Rocket or Actix, to build secure and scalable web applications.
+Extensive knowledge of the Substrate framework, including its runtime development, custom module development, and building Polkadot-compatible blockchains.
 
-- 🌱 I’m currently learning *Substrate Parity*
-- 💬 Ask me about *Substrate Rust, Polkadot*
-- 📫 How to reach me *arunjot@antiersolutions.com*
+* 🌳 I’m currently working on Relay Ecosystem architecture,! <br> 
+Actively Going through:
+  - 🐾 Substrate Based Chain with EVM Compatibility.
+  - 🌊 XCM Configurations and Bridges
+  - ☕  Pallet Developments <br>
+
 
 
 <p align="center"> 
