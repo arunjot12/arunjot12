@@ -5,15 +5,46 @@
 ## About me ⭐
 
 <p>I'm a Blockchain Developer at <strong><a href="https://www.antiersolutions.com">Antier Solutions</a></strong>. 
-I'm Proficient in Rust programming language including core language concepts, advanced features and libraries and have knowledge of web development frameworks and libraries in Rust, such as Rocket or Actix, to build secure and scalable web applications.
-Extensive knowledge of the Substrate framework, including its runtime development, custom module development, and building Polkadot-compatible blockchains.
+- 🔧 Proficient in **Rust** and the **Substrate framework**
+- 🧠 Skilled in custom runtime module (pallet) development
+- 🔗 Experienced in integrating **Ethereum-compatible** features like EVM & Ethereum signatures
+- 🌉 Knowledgeable in **XCM**, cross-chain bridges, and **Layer 0** infrastructure
+- 💡 Passionate about architecting secure, scalable, and interoperable blockchain ecosystems
 
-* 🌳 I’m currently working on Relay Ecosystem architecture,! <br> 
-Actively Going through:
-  - 🐾 Substrate Based Chain with EVM Compatibility.
-  - 🌊 XCM Configurations and Bridges
-  - ☕  Pallet Developments <br>
 
+## 🧩 Substrate Projects
+
+### ⚙️ Rezor – Layer 0 (2024, India)
+- Developed a custom **reward pallet** for tokenomics
+- Integrated **Ethereum signature support** and EVM for Layer 0
+- Created a **liquid staking pallet**
+- Enhanced network functionality, security, and staking capabilities for a robust user experience
+
+---
+
+### 🖼️ Cross-Chain NFT Pallet – Polkadot Ecosystem (2023)
+- Built a **cross-chain NFT pallet** for Polkadot-compatible chains
+- Enabled seamless NFT transfer and management across networks
+- Boosted **interoperability and utility** of NFTs within the Polkadot ecosystem
+
+---
+
+### 🔗 5ireChain (2022, India)
+- Developed a **revenue-sharing pallet** and **ESG score pallet**
+- Implemented **EVM compatibility** and **Ethereum signature support**
+- Focused on promoting sustainability, inclusivity, and broader EVM adoption
+
+
+---
+
+## 🛠️ Skills
+
+- **Languages**: Rust, Solidity
+- **Frameworks**: Substrate, EVM, XCM
+- **Concepts**: Layer 0/1 architecture, consensus algorithms, tokenomics
+- **Tools**: Polkadot.js, Remix, Hardhat, Frontier
+
+---
 
 
 <p align="center"> 
