@@ -29,7 +29,7 @@
 
 ## 🧩 Featured Substrate Projects
 
-### 🔥 <ins><strong>SAITACHAIN – Layer 0</strong></ins> (2024, 🇮🇳 India)
+### 🔥 <ins><strong>Rezor – Layer 0</strong></ins> (2024, 🇮🇳 India)
 🛠️ Built a **custom reward pallet** tailored to tokenomics  
 🔐 Integrated **Ethereum signature validation** and **EVM compatibility**  
 💧 Developed a **liquid staking pallet** for dynamic staking flows  
