@@ -21,10 +21,6 @@
 - 💡 **Pallet Development** for advanced blockchain logic
 - 🌐 **EVM-compatible Substrate chains** & **XCM configurations**
 
-<p align="center">
-  <img src="https://i.postimg.cc/HsLrpD07/nightlife-1.gif" width="70%" height="70%" alt="Nightlife blockchain gif"/>
-</p>
-
 ---
 
 ## 🧩 Featured Substrate Projects
@@ -65,6 +61,10 @@
   <a href="https://www.linkedin.com/in/arunjot-singh-782663228"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:arunjot@antiersolutions.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/arunjot12"><img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github"></a>
+</p>
+
+<p align="center">
+  <img src="https://i.postimg.cc/HsLrpD07/nightlife-1.gif" width="70%" height="70%" alt="Nightlife blockchain gif"/>
 </p>
 
 <p align="center">
