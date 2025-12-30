@@ -25,6 +25,24 @@
 
 ## 🧩 Featured Substrate Projects
 
+### 🟦 <ins><strong>Reef Chain</strong></ins> – Modular Layer-1 Blockchain (2025)
+🚀 **Upgraded Reef mainnet** to a newer stable runtime  
+🔄 Ensured **existing on-chain data remained intact** (accounts, validators, nominators, balances)  
+🧠 Improved **EVM compatibility, RPC correctness & execution behavior**  
+🛠️ Worked on **pallet-revive improvements** and developer tooling alignment  
+✨ Result: Safer upgrades, better Ethereum tooling support, and smoother dev experience
+
+---
+
+### 🟣 <<ins><strong>Kylix Finance</strong></ins> – Multi-Chain Lending Protocol (2025)
+💸 Contributed to **core runtime & pallet development**  
+🔗 Enhanced **staking and reward mechanisms**  
+⚙️ Focused on **performance, security, and maintainability**  
+🌐 Strengthened foundation for scalable DeFi use cases
+
+---
+
+
 ### 🔥 <ins><strong>Rezor – Layer 0</strong></ins> (2024, 🇮🇳 India)
 🛠️ Built a **custom reward pallet** tailored to tokenomics  
 🔐 Integrated **Ethereum signature validation** and **EVM compatibility**  
