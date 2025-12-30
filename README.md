@@ -65,11 +65,17 @@
 🌟 Enhanced ecosystem compatibility and environmental responsibility
 
 ---
+<h3>
+  <img src="https://img.sanishtech.com/u/c682462b2317daaff4c2072b6580f2cc.png"
+       alt="Vine"
+       width="20"
+     style="vertical-align: middle;"  />
+       <ins><strong>Vine Inc</strong></ins>  (2022, 🇮🇳 India)
+  </h3>
 
-### 🍃 <ins><strong>Vine Inc</strong></ins> – (2022, 🇮🇳 India) 
 🧩 Developed a **customized whitelist pallet** to manage controlled network access  
 🔄 Implemented **runtime migrations** to safely transfer on-chain data from **Layer-1 to Layer-0**  
-⚙️ Designed core blockchain components using the **Substrate framework**  
+⚙️ Designed core blockchain components using the **Substrate framework**
 
 ---
 
