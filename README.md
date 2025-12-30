@@ -34,7 +34,7 @@
 
 ---
 
-### 🟣 <<ins><strong>Kylix Finance</strong></ins> – Multi-Chain Lending Protocol (2025)
+### 🟣 <ins><strong>Kylix Finance</strong></ins> – Multi-Chain Lending Protocol (2025)
 💸 Contributed to **core runtime & pallet development**  
 🔗 Enhanced **staking and reward mechanisms**  
 ⚙️ Focused on **performance, security, and maintainability**  
