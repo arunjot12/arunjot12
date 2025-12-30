@@ -64,6 +64,10 @@
 🔗 Added **Ethereum signature support** and **EVM integration**  
 🌟 Enhanced ecosystem compatibility and environmental responsibility
 
+🍃 <ins><strong>Vine Inc</strong></ins> – Substrate Layer-0 Network (2022)
+⚙️ Designed for Layer-0 with evm architecture using the Substrate framework
+🔄 Created runtime migrations to transfer on-chain data from Layer-1 to Layer-0 blockchain
+
 ## 🛠️ Tech Stack & Skills
 
 | Language | Frameworks | Blockchain | Concepts | Tools |
