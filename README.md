@@ -43,7 +43,7 @@
 ---
 
 
-### 🔥 <ins><strong>Rezor – Layer 0</strong></ins> (2024, 🇮🇳 India)
+### 🌱 <ins><strong>Rezor – Layer 0</strong></ins> (2024, 🇮🇳 India)
 🛠️ Built a **custom reward pallet** tailored to tokenomics  
 🔐 Integrated **Ethereum signature validation** and **EVM compatibility**  
 💧 Developed a **liquid staking pallet** for dynamic staking flows  
@@ -58,7 +58,7 @@
 
 ---
 
-### 🌱 <ins><strong>5ireChain</strong></ins> (2022, 🇮🇳 India)  
+### 🔥 <ins><strong>5ireChain</strong></ins> (2022, 🇮🇳 India)  
 💸 Created a **revenue-sharing pallet** to support decentralized rewards  
 🌍 Implemented an **ESG scoring pallet** for sustainability tracking  
 🔗 Added **Ethereum signature support** and **EVM integration**  
