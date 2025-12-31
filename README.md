@@ -57,8 +57,15 @@
 🧠 Expanded cross-chain capabilities for Web3 projects
 
 ---
-
-### 🔥 <ins><strong>5ireChain</strong></ins> (2022, 🇮🇳 India)  
+<h3>
+  <img 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROIY5JN8St6SUqE30X6aSmK1W7Jdz1seWdpw&s"
+    alt="5ireChain Logo"
+    width="20"
+    height="20"
+  />
+   <ins><strong>5ireChain</strong></ins> (2022, 🇮🇳 India)  
+ </h3>
 💸 Created a **revenue-sharing pallet** to support decentralized rewards  
 🌍 Implemented an **ESG scoring pallet** for sustainability tracking  
 🔗 Added **Ethereum signature support** and **EVM integration**  
@@ -69,6 +76,7 @@
   <img src="https://img.sanishtech.com/u/c682462b2317daaff4c2072b6580f2cc.png"
        alt="Vine"
        width="20"
+      height="20"
      style="vertical-align: middle;"  />
        <ins><strong>Vine Inc</strong></ins>  (2022, 🇮🇳 India)
   </h3>
