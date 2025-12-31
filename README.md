@@ -64,7 +64,7 @@
     width="20"
     height="20"
   />
-   <ins><strong>5ireChain</strong></ins> (2022, 🇮🇳 India)  
+   <ins><strong>5ireChain</strong></ins> – Layer 1 (2022, 🇮🇳 India)  
  </h3>
 💸 Created a **revenue-sharing pallet** to support decentralized rewards  
 🌍 Implemented an **ESG scoring pallet** for sustainability tracking  
@@ -78,7 +78,7 @@
        width="20"
       height="20"
      style="vertical-align: middle;"  />
-       <ins><strong>Vine Inc</strong></ins>  (2022, 🇮🇳 India)
+       <ins><strong>Vine Inc </strong></ins> – Layer 0 (2022, 🇮🇳 India)
   </h3>
 
 🧩 Developed a **customized whitelist pallet** to manage controlled network access  
