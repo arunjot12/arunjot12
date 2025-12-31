@@ -50,8 +50,14 @@
 ✨ Result: Improved user experience, network security, and scalability
 
 ---
-
-### 🎨 <ins><strong>Cross-Chain NFT Pallet</strong></ins> – Polkadot Ecosystem (2023)  
+<h3>
+  <img 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkUCWbl5ORDlgWw6BcB3Ehb_mO47N6fJpI6Q&s"
+    alt="Cross chain Xnft"
+    width="20"
+  />
+   <ins><strong>Cross-Chain NFT Pallet</strong></ins> – Polkadot Ecosystem (2023)  
+ </h3>
 🌐 Enabled **NFT transfers** across multiple Substrate chains  
 🚀 Boosted **interoperability** of NFTs inside the Polkadot ecosystem  
 🧠 Expanded cross-chain capabilities for Web3 projects
