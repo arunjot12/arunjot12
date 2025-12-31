@@ -31,7 +31,7 @@
     alt="Kylix blockchain"
     width="20"
   />
-   <ins><strong>Reef Chain</strong></ins> – Modular Layer-1 Blockchain (2025)
+    &ensp;<ins><strong>Reef Chain</strong></ins> – Modular Layer-1 Blockchain (2025)
  </h3>
 
 
@@ -48,7 +48,7 @@
     alt="Kylix blockchain"
     width="20"
   />
-  <ins><strong>Kylix Finance</strong></ins> – Multi-Chain Lending Protocol (2025)
+   &ensp;<ins><strong>Kylix Finance</strong></ins> – Multi-Chain Lending Protocol (2025)
  </h3>
  
 
@@ -64,7 +64,7 @@
     alt="Rezor blockchain"
     width="20"
   />
-   <ins><strong>Rezor – Layer 0</strong></ins> (2024, 🇮🇳 India)
+    &ensp;<ins><strong>Rezor – Layer 0</strong></ins> (2024, 🇮🇳 India)
  </h3>
 
 🛠️ Built a **custom reward pallet** tailored to tokenomics  
@@ -79,7 +79,7 @@
     alt="Cross chain Xnft"
     width="20"
   />
-   <ins><strong>Cross-Chain NFT Pallet</strong></ins> – Polkadot Ecosystem (2023)  
+    &ensp;<ins><strong>Cross-Chain NFT Pallet</strong></ins> – Polkadot Ecosystem (2023)  
  </h3>
  
 🌐 Enabled **NFT transfers** across multiple Substrate chains  
@@ -94,7 +94,7 @@
     width="20"
     height="20"
   />
-   <ins><strong>5ireChain</strong></ins> – Layer 1 (2022, 🇮🇳 India)  
+    &ensp;<ins><strong>5ireChain</strong></ins> – Layer 1 (2022, 🇮🇳 India)  
  </h3>
  
 💸 Created a **revenue-sharing pallet** to support decentralized rewards  
@@ -109,7 +109,7 @@
        width="20"
       height="20"
      style="vertical-align: middle;"  />
-       <ins><strong>Vine Inc </strong></ins> – Layer 0 (2022, 🇮🇳 India)
+        &ensp;<ins><strong>Vine Inc </strong></ins> – Layer 0 (2022, 🇮🇳 India)
   </h3>
 
 🧩 Developed a **customized whitelist pallet** to manage controlled network access  
