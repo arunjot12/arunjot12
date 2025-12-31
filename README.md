@@ -58,6 +58,7 @@
   />
    <ins><strong>Cross-Chain NFT Pallet</strong></ins> – Polkadot Ecosystem (2023)  
  </h3>
+ 
 🌐 Enabled **NFT transfers** across multiple Substrate chains  
 🚀 Boosted **interoperability** of NFTs inside the Polkadot ecosystem  
 🧠 Expanded cross-chain capabilities for Web3 projects
@@ -72,6 +73,7 @@
   />
    <ins><strong>5ireChain</strong></ins> – Layer 1 (2022, 🇮🇳 India)  
  </h3>
+ 
 💸 Created a **revenue-sharing pallet** to support decentralized rewards  
 🌍 Implemented an **ESG scoring pallet** for sustainability tracking  
 🔗 Added **Ethereum signature support** and **EVM integration**  
