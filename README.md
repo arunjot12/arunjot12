@@ -25,7 +25,16 @@
 
 ## 🧩 Featured Substrate Projects
 
-### 🟦 <ins><strong>Reef Chain</strong></ins> – Modular Layer-1 Blockchain (2025)
+<h3>
+  <img 
+    src="https://miro.medium.com/v2/resize:fit:800/1*BdkfVNGg1m-kiTxUq9zZDg.jpeg"
+    alt="Kylix blockchain"
+    width="20"
+  />
+   <ins><strong>Reef Chain</strong></ins> – Modular Layer-1 Blockchain (2025)
+ </h3>
+
+
 🚀 **Upgraded Reef mainnet** to a newer stable runtime  
 🔄 Ensured **existing on-chain data remained intact** (accounts, validators, nominators, balances)  
 🧠 Improved **EVM compatibility, RPC correctness & execution behavior**  
@@ -33,17 +42,31 @@
 ✨ Result: Safer upgrades, better Ethereum tooling support, and smoother dev experience
 
 ---
+<h3>
+  <img 
+    src="https://pbs.twimg.com/profile_images/1899176719623266305/4hLa5BNK_400x400.jpg"
+    alt="Kylix blockchain"
+    width="20"
+  />
+  <ins><strong>Kylix Finance</strong></ins> – Multi-Chain Lending Protocol (2025)
+ </h3>
+ 
 
-### 🟣 <ins><strong>Kylix Finance</strong></ins> – Multi-Chain Lending Protocol (2025)
 💸 Contributed to **core runtime & pallet development**  
 🔗 Enhanced **staking and reward mechanisms**  
 ⚙️ Focused on **performance, security, and maintainability**  
 🌐 Strengthened foundation for scalable DeFi use cases
 
 ---
+<h3>
+  <img 
+    src="https://s3.coinmarketcap.com/static-gravity/image/bb1c1509094443fcbf5ab2f60cdb92d1.jpg"
+    alt="Rezor blockchain"
+    width="20"
+  />
+   <ins><strong>Rezor – Layer 0</strong></ins> (2024, 🇮🇳 India)
+ </h3>
 
-
-### 🌱 <ins><strong>Rezor – Layer 0</strong></ins> (2024, 🇮🇳 India)
 🛠️ Built a **custom reward pallet** tailored to tokenomics  
 🔐 Integrated **Ethereum signature validation** and **EVM compatibility**  
 💧 Developed a **liquid staking pallet** for dynamic staking flows  
