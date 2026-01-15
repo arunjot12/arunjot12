@@ -104,12 +104,12 @@
 
 ---
 <h3>
-  <img src="https://img.sanishtech.com/u/c682462b2317daaff4c2072b6580f2cc.png"
+  <img src="https://cdn.prod.website-files.com/676049ec9e6b4c4eaf5291d7/679d3074f79b040c179ff9d6_OG%20image-vine.jpg"
        alt="Vine"
        width="20"
       height="20"
      style="vertical-align: middle;"  />
-        &ensp;<ins><strong>Vine Inc </strong></ins> – Layer 0 (2022, 🇮🇳 India)
+        <ins><strong>Vine Inc </strong></ins> – Layer 0 (2022, 🇮🇳 India)
   </h3>
 
 🧩 Developed a **customized whitelist pallet** to manage controlled network access  
